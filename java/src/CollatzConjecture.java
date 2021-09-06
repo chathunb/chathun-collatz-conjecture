@@ -14,7 +14,7 @@ public class CollatzConjecture {
     public static void main(String args[]) {
         // Run method with number to make collatzConjecture
         // collatzConjectureTrigger(27);
-        collatzConjectureChart(7);
+        collatzConjectureChart(3);
     }
 
     public static void collatzConjectureTrigger(int value) {
@@ -112,7 +112,7 @@ public class CollatzConjecture {
                 System.out.print(dis1[j][i] + " ");
 
             }
-            
+
             System.out.println();
         }
     }
