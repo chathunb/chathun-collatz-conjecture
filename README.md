@@ -32,7 +32,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/chathunb/chathun-collatz-conjecture">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.jpg" alt="Logo" width="200" height="100">
   </a>
 
   <h3 align="center">Collatz Conjecture Programatical Implimantation - [JAVA]</h3>
@@ -160,4 +160,4 @@ Project Link: [https://github.com/chathunb/chathun-collatz-conjecture](https://g
 [license-url]: https://github.com/chathunb/chathun-collatz-conjecture/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/chathunbandara
-[product-screenshot]: /images/screenshots/collatz-conjecture-result.png
+[product-screenshot]: images/screenshots/collatz-conjecture-result.png
